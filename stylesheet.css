@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+html{
+    background:url(ダウンロード.png);
+    color:rgba(84, 8, 183, 0.95);
+}
+body{
+    width:400px;
+    margin:0 auto;
+}
+a:hover{
+    color:rgb(182, 20, 20);
+}
+a:active{
+    background-color:rgb(26, 126, 43);
+}
